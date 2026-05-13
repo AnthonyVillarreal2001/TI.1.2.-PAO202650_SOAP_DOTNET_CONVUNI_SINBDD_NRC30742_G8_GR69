@@ -6,7 +6,7 @@ namespace CliMovApp.ec.edu.monster.vista;
 public partial class LoginPage : ContentPage
 {
     private const string USERNAME_VALIDO = "MONSTER";
-    private const string PASSWORD_VALIDO = "MONSTER09";
+    private const string PASSWORD_VALIDO = "MONSTER9";
 
     public LoginPage()
     {
